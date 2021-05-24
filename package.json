@@ -1,0 +1,21 @@
+{
+  "name": "node_class7",
+  "version": "1.0.0",
+  "description": "startupisteam class 7 of node % express",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "querystrings"
+  ],
+  "author": "yoni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
