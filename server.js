@@ -26,5 +26,5 @@ app.get('/client/*', function(req, res) {
 });
 
 app.listen(80, function() {
-	console.log('Server is up & running');
+	console.log('Server is up');
 });
